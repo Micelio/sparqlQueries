@@ -1,6 +1,6 @@
 #QUERY <http://sparql.wikipathways.org>
 
-PREFIX identifiers:<http://identifiers.org/ensembl/>
+PREFIX identifiers: <http://identifiers.org/ensembl/>
 PREFIX atlas: <http://rdf.ebi.ac.uk/resource/atlas/>
 PREFIX atlasterms: <http://rdf.ebi.ac.uk/terms/atlas/>
 PREFIX efo: <http://www.ebi.ac.uk/efo/>
