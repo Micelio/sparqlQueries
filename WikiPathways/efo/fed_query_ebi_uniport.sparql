@@ -23,7 +23,6 @@ WHERE {
 SERVICE <https://www.ebi.ac.uk/rdf/services/atlas/sparql> {
    ?value rdfs:label ?valueLabel .
    ?value atlasterms:isMeasurementOf ?probe  .
-   ?probe atlasterms:dbXref identifiers:ENSG00000129991  .
    ?probe atlasterms:dbXref ?uniprot .
 
 SERVICE <http://beta.sparql.uniprot.org/sparql> {   
